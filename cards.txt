@@ -1,0 +1,4 @@
+{"text":"George Washington was the first President of the United States.","cloze":"George Washington","partial":"... was the first President of the United States."}
+{"front":"What is the Capital if New Jersey?","back":"Trenton"}
+{"text":"John Hancock signed the Declaration of Independence.","cloze":"John Hancock","partial":"... signed the Declaration of Independence."}
+{"front":"How long was the Titanic?","back":"883 feet"}
